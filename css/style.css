@@ -510,7 +510,7 @@ header .header-container .menu-list__item a:hover {
 .top-footer .center-block .button-contact:before {
   position: absolute;
   content: '';
-  background-image: url("/img/ArrowBefore.svg");
+  background-image: url("../img/ArrowBefore.svg");
   width: 80px;
   height: 15px;
   left: 0;
