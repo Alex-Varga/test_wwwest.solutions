@@ -402,6 +402,10 @@ header .header-container .menu-list__item a:hover {
   padding: 76px 0;
 }
 
+.slider-section .mySwiper {
+  position: relative;
+}
+
 .slider-section .mySwiper .swiper-pagination {
   position: absolute;
   bottom: 60px;
